@@ -10,12 +10,15 @@ No more entering the details on your UPI app.
 Enter the field and hit generate.
 https://upi-qr.vercel.app/
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/19756463/181876472-e3b31dfb-aa70-47e6-a1cf-647c360fbc95.gif)
+
 ## Getting Started on development
 
 First, run the development server:
 
 ```bash
-npm run dev
+npm run dev!
+
 # or
 yarn dev
 ```
