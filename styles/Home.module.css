@@ -1,0 +1,43 @@
+.container {
+  padding: 0 2rem;
+}
+
+.main {
+  padding: 2rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
+}
+
+.particlesSection {
+  z-index: -1;
+}
+
+.formSection{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: flex-end;
+  height: 150px;
+  justify-content: space-evenly;
+}
+
+.formSection label{
+  margin-right: 1em;
+}
+
+.generateButton button{
+  margin: 0 1em;
+  padding: 10px;
+}
